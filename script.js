@@ -1,3 +1,7 @@
+// New without loco
+
+
+
 // gsap.registerPlugin(ScrollTrigger);
 
 // // Using Locomotive Scroll from Locomotive https://github.com/locomotivemtl/locomotive-scroll
@@ -463,6 +467,5 @@ string.addEventListener("mouseleave", () => {
         ease: "elastic.out(1,0.2)"
     })
 })
-
 
 
