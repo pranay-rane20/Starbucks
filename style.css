@@ -300,6 +300,7 @@ section #content h1{
 
 section #content h1 span{
     color: #0bff71;
+    /* color: rgb(255, 150, 167); */
     font-size: 6.9vw;
     font-weight: 1000;
     font-family: star;
